@@ -93,7 +93,8 @@ text-decoration: none;}
                    
                     color: #434455;}
                    .adv {list-style: none;}
-                   .ourimg {list-style: none;}
+                   .ourimg {list-style: none;
+                display: block;}
                    .footer {background-color: #2E2F42;}
                    .footer-logo {ont-family: 'Raleway', sans-serif;
                     font-style: normal;
