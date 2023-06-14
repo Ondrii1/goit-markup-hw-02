@@ -3,3 +3,8 @@
     height: 2592px;
     
     background: #FFFFFF}
+    .header {position: absolute;
+        width: 1440px;
+        height: 72px;
+        left: 0px;
+        top: 0px;}
