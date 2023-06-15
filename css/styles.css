@@ -1,4 +1,4 @@
-.logo link{
+.logo {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
@@ -30,13 +30,7 @@
     flex: none;}
 .header-links {list-style: none;}
 .link {text-decoration: none;
-    font-family: 'Roboto', serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #434455;
+    
 }
 .section-hero {background: #2E2F42;}
 .hero-title {font-family: 'Roboto';
