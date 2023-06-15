@@ -154,6 +154,8 @@
                         .body {font-family: "Roboto", sans-serif;
                             color: #434455;
                             background-color:var(--primary-white-color);}
+                            .list .header-item :hover,
+                            .list .header-item :focus {color: #404bbf}
 
 
                           
