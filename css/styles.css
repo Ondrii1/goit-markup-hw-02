@@ -49,7 +49,7 @@
     color: #FFFFFF;}
 .hero-btn {background: #4D5AE5;
     
-    
+    cursor: pointer;
     
     
    
@@ -156,6 +156,10 @@
                             background-color:var(--primary-white-color);}
                             .list .header-link:hover,
                             .list .header-link:focus {color: #404bbf}
+                            .list .links:hover,
+                            .list .links:focus {color: #404bbf}
+                            .hero-btn:hover,
+                            .hero-btn:focus {background-color: #404BBF}
 
 
                           
