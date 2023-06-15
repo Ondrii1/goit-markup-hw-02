@@ -141,6 +141,7 @@
                         .links {font-size: 16px;
                             font-size: 16px;
                             letter-spacing: 0.02em;
+                            line-height: 1.5;
                             color:var(--primary-gray-color);}
 .header-adr {font-style: normal;}
                         .section-ourteam {background-color: #F4F4FD}
@@ -148,6 +149,9 @@
                         .body {font-family: "Roboto", sans-serif;
                             color: #434455;
                             background-color:var(--primary-white-color);}
+
+
                             :root {--primary-white-color: #ffffff;
                             --primary-accent-color: #2e2f42;
-                            --primary-gray-color: #434455;} 
+                            --primary-gray-color: #434455;
+                        } 
