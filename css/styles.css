@@ -1,7 +1,8 @@
 :root {--primary-white-color: #ffffff;
     --primary-accent-color: #2e2f42;
     --primary-gray-color: #434455;
-    --primary-blue-color: #4D5AE5;} 
+    --primary-blue-color: #4D5AE5;
+} 
 .logo {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
@@ -137,11 +138,11 @@
                         .list {list-style: none;}
                         .link {text-decoration: none}
                         .hclass {color:var(--primary-accent-color) ;
-                            font-weight: 500;
-                            font-size: 20px;
-                            line-height: 1.2;
+                            font-size: 36px;
+                            line-height: 1.11;
+                            text-align: center;
                             letter-spacing: 0.02em;
-                    
+                            text-transform: capitalize;
                         }
                         .links {font-size: 16px;
                             font-size: 16px;
@@ -173,7 +174,11 @@
                                 text-decoration: 0;}
                                 .btn:hover,.btn:focus {background-color: #404BBF;
                                 color:var(--primary-white-color); }
-                                
+                                .ptitle {font-weight: 500;
+                                    font-size: 20px;
+                                    line-height: 1.2;
+                                    letter-spacing: 0.02em;
+                                color:var(--primary-accent-color)}
 
 
                           
