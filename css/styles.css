@@ -120,8 +120,12 @@ text-decoration: none;}
                  
                     color: #F4F4FD;}
                     .btnlist {list-style: none;}
-                    .btn5 {background: #F4F4FD;
+                    .btn {background: #F4F4FD;
                         border: 1px solid #E7E9FC;
                         border-radius: 4px;
+                        font-family: "Roboto", sans-serif; 
+                        font-weight: 500;
+                        line-height: 1.5;
+                        letter-spacing: 0.04em;
                         }
                         .list {list-style: none;}
