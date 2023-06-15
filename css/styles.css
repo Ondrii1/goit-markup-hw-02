@@ -96,7 +96,7 @@ text-decoration: none;}
                    .ourimg {list-style: none;
                 display: block;}
                    .footer {background-color: #2E2F42;}
-                   .footer-logo {ont-family: 'Raleway', sans-serif;
+                   .footer-link {font-family: 'Raleway', sans-serif;
                     font-style: normal;
                     font-weight: 800;
                     font-size: 18px;
@@ -124,4 +124,4 @@ text-decoration: none;}
                         border: 1px solid #E7E9FC;
                         border-radius: 4px;
                         }
-                        
+                        .list {list-style: none;}
