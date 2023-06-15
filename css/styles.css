@@ -35,6 +35,11 @@
 .link {text-decoration: none;
     
 }
+.name {font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+color:var(--primary-accent-color)}
 .section-hero {background: #2E2F42;}
 .hero-title {font-family: 'Roboto';
     font-style: normal;
@@ -125,6 +130,7 @@
                             text-align: center;
                             letter-spacing: 0.02em;
                             text-transform: capitalize;
+
                         }
                         .links {font-size: 16px;
                             font-size: 16px;
