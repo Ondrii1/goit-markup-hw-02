@@ -1,6 +1,7 @@
 :root {--primary-white-color: #ffffff;
     --primary-accent-color: #2e2f42;
     --primary-gray-color: #434455;
+    --primary-blue-color: #4D5AE5;
 } 
 .logo {
     font-family: 'Raleway', sans-serif;
@@ -15,7 +16,6 @@
     flex: none;
     text-decoration: 0;
  color: #4D5AE5;
- 
  }
  .header-logo-black {color: #2E2F42;}
  .header-item {list-style: none;
@@ -160,6 +160,17 @@
                             .list .links:focus {color: #404bbf}
                             .hero-btn:hover,
                             .hero-btn:focus {background-color: #404BBF}
+                            .logo-port {font-family: 'Raleway', sans-serif;
+                                font-style: normal;
+                                font-weight: 800;
+                                font-size: 18px;
+                                line-height: 1.17;
+                                color:var(--primary-blue-color);
+                               
+                                letter-spacing: 0.03em;
+                                text-transform: uppercase;
+                                flex: none;
+                                text-decoration: 0;}
 
 
                           
