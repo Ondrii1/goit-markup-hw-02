@@ -79,7 +79,7 @@ text-decoration: none;}
             letter-spacing: 0.02em;
             text-transform: capitalize;
             color: #2E2F42;}
-            .h3class {font-family: 'Roboto';
+            .name {font-family: 'Roboto';
                 font-style: normal;
                 font-weight: 500;
                 font-size: 20px;
@@ -89,7 +89,7 @@ text-decoration: none;}
                 
                 color: #2E2F42;
                 }
-                .pclass {font-family: 'Roboto';
+                .parag {font-family: 'Roboto';
                     font-style: normal;
                     font-weight: 400;
                     font-size: 16px;
@@ -136,7 +136,7 @@ text-decoration: none;}
                         }
                         .list {list-style: none;}
                         .link {text-decoration: none}
-                        .h2class {font-size: 36px;
+                        .hclass {font-size: 36px;
                             line-height: 1.11;
                             text-align: center;
                         }
